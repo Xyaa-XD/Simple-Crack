@@ -12,6 +12,9 @@ Free, don't forget to give a star ⭐
  $ pkg update && pkg upgrade
  $ pkg install python git
  $ pkg install play-audio 
+ $ pip install stdiomask
+ $ pip install requests
+ $ pip install mechanize 
  $ pip install requests bs4 futures
  $ pip install rich
  $ git clone https://github.com/SAIPUL-ESDE/Simple-Crack
