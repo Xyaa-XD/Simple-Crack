@@ -17,7 +17,7 @@ Free, don't forget to give a star ⭐
  $ pip install mechanize 
  $ pip install requests bs4 futures
  $ pip install rich
- $ git clone https://github.com/SAIPUL-ESDE/Simple-Crack
+ $ git clone https://github.com/Xyaa-XD/Simple-Crack
  ```
 
 ###### Run Script
